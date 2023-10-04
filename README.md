@@ -1,4 +1,4 @@
-**#Exploring Topic Modeling with Amazon Reviews Dataset**
+**Exploring Topic Modeling with Amazon Reviews Dataset**
 
 **Introduction:**
 Topic modeling is a natural language processing technique that helps uncover hidden thematic structures within a large collection of text documents. This project aims to delve into the world of topic modeling using the Amazon Reviews dataset. In this text file, we will provide an overview of the project, its objectives, methodologies, and key findings.
